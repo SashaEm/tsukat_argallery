@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53543400581",
+    "firebase_url": "https://tsukatartgalery-default-rtdb.firebaseio.com",
+    "project_id": "tsukatartgalery",
+    "storage_bucket": "tsukatartgalery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53543400581:android:91a794cee06225913365ec",
+        "android_client_info": {
+          "package_name": "com.SashaEm.ARFoundationTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53543400581-jik6p2s1rf02tnm9r4a9ofutrrit63ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbSzEF8MJREU9FFokSGozxUVslO-Rcx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53543400581-jik6p2s1rf02tnm9r4a9ofutrrit63ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
